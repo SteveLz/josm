@@ -3226,7 +3226,8 @@ area[amenity=university],
 area[amenity=college],
 area[amenity=kindergarten],
 area[amenity=language_school],
-area[amenity=driving_school] {
+area[amenity=driving_school],
+area[amenity=research_institute] {
     fill-color: amenity_light#f7efb7;
 }
 node[amenity=animal_boarding] {
